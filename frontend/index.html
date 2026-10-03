@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Navigator</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+    <div class="app">
+
+        <header class="header">
+            <h1>🤖 AI Navigator</h1>
+            <p>Find the right AI tool for your task.</p>
+        </header>
+
+        <main class="chat-container">
+
+            <div id="chat-box" class="chat-box">
+
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <strong>AI Navigator</strong>
+                        <p>
+                            Hi! 👋 Tell me what you want to do,
+                            and I'll help you find useful AI tools.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="input-area">
+
+                <input
+                    type="text"
+                    id="user-input"
+                    placeholder="Ask something like: I want to learn Python..."
+                    autocomplete="off"
+                >
+
+                <button id="send-button">
+                    Send
+                </button>
+
+            </div>
+
+        </main>
+
+    </div>
+
+    <script src="/static/script.js"></script>
+
+</body>
+</html>

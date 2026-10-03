@@ -1,0 +1,258 @@
+[
+  {
+    "name": "ChatGPT",
+    "categories": [
+      "Learning",
+      "Writing",
+      "Brainstorming",
+      "General AI Assistant"
+    ],
+    "description": "AI assistant for answering questions, learning, writing, brainstorming, and many other tasks.",
+    "free_tier": true,
+    "website": "https://chatgpt.com",
+    "best_for": [
+      "learning",
+      "brainstorming",
+      "writing",
+      "general questions"
+    ],
+    "limitations": [
+      "Free usage has limits that may change."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Google Gemini",
+    "categories": [
+      "Learning",
+      "Writing",
+      "Brainstorming",
+      "General AI Assistant"
+    ],
+    "description": "AI assistant useful for questions, writing, brainstorming, and working with information.",
+    "free_tier": true,
+    "website": "https://gemini.google.com",
+    "best_for": [
+      "learning",
+      "brainstorming",
+      "writing",
+      "general questions"
+    ],
+    "limitations": [
+      "Free usage has limits that may change."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "categories": [
+      "General AI Assistant",
+      "Writing",
+      "Learning",
+      "Research"
+    ],
+    "description": "AI assistant for answering questions, generating content, brainstorming, and research.",
+    "free_tier": true,
+    "website": "https://copilot.microsoft.com",
+    "best_for": [
+      "general questions",
+      "writing",
+      "research",
+      "brainstorming"
+    ],
+    "limitations": [
+      "Available features and usage limits may change."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Perplexity",
+    "categories": [
+      "Research",
+      "Learning",
+      "Search"
+    ],
+    "description": "AI-powered search and research tool designed to provide answers with supporting web sources.",
+    "free_tier": true,
+    "website": "https://www.perplexity.ai",
+    "best_for": [
+      "research",
+      "fact finding",
+      "learning",
+      "web search"
+    ],
+    "limitations": [
+      "Free usage and available features may change."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Claude",
+    "categories": [
+      "Writing",
+      "Learning",
+      "Coding",
+      "General AI Assistant"
+    ],
+    "description": "AI assistant useful for writing, learning, coding, analysis, and general questions.",
+    "free_tier": true,
+    "website": "https://claude.ai",
+    "best_for": [
+      "writing",
+      "coding",
+      "learning",
+      "analysis"
+    ],
+    "limitations": [
+      "Free usage has limits that may change."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "GitHub Copilot",
+    "categories": [
+      "Coding",
+      "Programming",
+      "Learning"
+    ],
+    "description": "AI coding assistant that helps developers write, understand, and improve code.",
+    "free_tier": true,
+    "website": "https://github.com/features/copilot",
+    "best_for": [
+      "coding",
+      "programming",
+      "code completion",
+      "learning programming"
+    ],
+    "limitations": [
+      "Free access and usage limits depend on the current GitHub Copilot offering."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Hugging Face",
+    "categories": [
+      "Machine Learning",
+      "AI Models",
+      "Coding",
+      "Learning"
+    ],
+    "description": "Platform for discovering and working with open machine learning models, datasets, and AI applications.",
+    "free_tier": true,
+    "website": "https://huggingface.co",
+    "best_for": [
+      "machine learning",
+      "AI experiments",
+      "open models",
+      "learning AI"
+    ],
+    "limitations": [
+      "Some hosted resources and services have usage limits."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Canva",
+    "categories": [
+      "Design",
+      "Presentations",
+      "Writing",
+      "Images"
+    ],
+    "description": "Design platform with AI-powered features for presentations, graphics, images, and content creation.",
+    "free_tier": true,
+    "website": "https://www.canva.com",
+    "best_for": [
+      "presentations",
+      "posters",
+      "design",
+      "visual content"
+    ],
+    "limitations": [
+      "Some AI and design features require a paid plan."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "Gamma",
+    "categories": [
+      "Presentations",
+      "Writing",
+      "Design"
+    ],
+    "description": "AI-powered tool for creating presentations, documents, and visual content.",
+    "free_tier": true,
+    "website": "https://gamma.app",
+    "best_for": [
+      "presentations",
+      "slides",
+      "documents",
+      "visual content"
+    ],
+    "limitations": [
+      "Free usage may have limits."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "ElevenLabs",
+    "categories": [
+      "Audio",
+      "Voice",
+      "Content Creation"
+    ],
+    "description": "AI platform for generating and working with synthetic speech and audio.",
+    "free_tier": true,
+    "website": "https://elevenlabs.io",
+    "best_for": [
+      "voice generation",
+      "audio projects",
+      "content creation"
+    ],
+    "limitations": [
+      "Free usage has limits and some features may require a paid plan."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "NotebookLM",
+    "categories": [
+      "Learning",
+      "Research",
+      "Study"
+    ],
+    "description": "AI research and study assistant designed to help users work with their own source materials.",
+    "free_tier": true,
+    "website": "https://notebooklm.google.com",
+    "best_for": [
+      "studying",
+      "research",
+      "summarizing documents",
+      "working with notes"
+    ],
+    "limitations": [
+      "Usage limits and available features may change."
+    ],
+    "last_verified": "2026-10-03"
+  },
+  {
+    "name": "DeepL",
+    "categories": [
+      "Translation",
+      "Writing",
+      "Language Learning"
+    ],
+    "description": "AI-powered translation and writing tool for working with multiple languages.",
+    "free_tier": true,
+    "website": "https://www.deepl.com",
+    "best_for": [
+      "translation",
+      "language learning",
+      "writing"
+    ],
+    "limitations": [
+      "Free usage has limits."
+    ],
+    "last_verified": "2026-10-03"
+  }
+]
